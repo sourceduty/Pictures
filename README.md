@@ -12,7 +12,7 @@ Photo editing is the process of altering or enhancing images using software tool
 
 ![PNG Background](https://github.com/user-attachments/assets/cb37e039-86f6-41d7-bc3c-b23933ee01e7)
 
-[PNG Background](https://chatgpt.com/g/g-68354e7b090081919b75d2ef1965d36b-png-background) is a unique custom GPT that specializes in transforming PNG images with transparent backgrounds into polished, professional visuals by placing them onto visually appealing backgrounds. Users start by uploading a PNG file, which becomes the central foreground element of the final image. The GPT then helps choose or creates a complementary background—ranging from serene landscapes to futuristic themes or simple gradients—ensuring that the foreground image pops while the background remains balanced and supportive. This is ideal for producing banners, headers, profile visuals, and marketing graphics that look crisp and cohesive without needing advanced design skills.
+[PNG Background](https://chatgpt.com/g/g-68354e7b090081919b75d2ef1965d36b-png-background) is a unique custom GPT that helps users creatively integrate their .png files—especially those with transparent backgrounds—into visually compelling new scenes by generating and applying custom AI-powered image backgrounds. After a user uploads their .png image, the GPT guides them through a step-by-step selection process to choose a background theme such as "Nature," "Urban," "Abstract," or a personalized scene. It then generates the background and allows the user to specify the exact placement of their .png element (like Center or Bottom Right), ensuring harmonious composition and visual balance. Additionally, it supports resizing and minor adjustments to ensure the foreground fits proportionally within the new background.
 
 #
 
