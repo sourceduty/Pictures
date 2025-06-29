@@ -26,6 +26,12 @@ Photo editing is the process of altering or enhancing images using software tool
 
 [Image Emulator](https://chatgpt.com/g/g-RF3VlAjnL-image-emulator) was developed to generate unique product and packaging concepts that are tailored to the aesthetic preferences and cultural nuances of different genders—his, hers, and even his and hers combined products. It focuses on creating visually striking designs for male and female products, using image generation technology to bring these concepts to life. For male products, the GPT incorporates bold, sleek, and minimalist elements that resonate with strength, sophistication, and a sense of ruggedness. For female products, the design elements lean towards soft, elegant, and vibrant themes, often evoking beauty, grace, and nurturing qualities. When designing for a combined product line, the GPT balances elements of both, blending the masculine and feminine into a cohesive, harmonious design. Additionally, the GPT takes into account the psychological and market-driven factors that influence consumer choice, ensuring that the final product and packaging appeal directly to the tastes and expectations of the target demographic. The goal is to produce polished, commercially viable prototypes that are both visually stunning and capable of standing out in the marketplace, whether they are standalone items or part of a combined product line catering to both male and female consumers.
 
+#
+
+![AI-Collage](https://github.com/user-attachments/assets/f61a0be9-850f-41f4-a41a-03770d9dca91)
+
+[AI-Collage](https://chatgpt.com/g/g-6861915ac0448191b72dc650c2d789e2-ai-collage) is a custom GPT made to assist users in creating visually compelling half-collages. It helps combine AI-generated imagery with traditional or existing visuals to create unique artwork. The process involves guiding users through a step-by-step, multiple-choice approach to selecting themes, images, and compositions. AI-Collage aids in curating visuals, balancing styles and tones, and refining the collage's composition to highlight the creative intersection of human and AI-generated art. This results in a striking and cohesive piece that invites exploration and reflection on the fusion of technology and artistic expression. 
+
 
 #
 ![Banner](https://github.com/user-attachments/assets/fe872224-81ab-4f33-8f7d-d96b83087c05)
