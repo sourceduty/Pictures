@@ -32,9 +32,12 @@ Photo editing is the process of altering or enhancing images using software tool
 
 [AI-Collage](https://chatgpt.com/g/g-6861915ac0448191b72dc650c2d789e2-ai-collage) is a custom GPT made to assist users in creating visually compelling half-collages. It helps combine AI-generated imagery with traditional or existing visuals to create unique artwork. The process involves guiding users through a step-by-step, multiple-choice approach to selecting themes, images, and compositions. AI-Collage aids in curating visuals, balancing styles and tones, and refining the collage's composition to highlight the creative intersection of human and AI-generated art. This results in a striking and cohesive piece that invites exploration and reflection on the fusion of technology and artistic expression. 
 
-
 #
-![Banner](https://github.com/user-attachments/assets/fe872224-81ab-4f33-8f7d-d96b83087c05)
+
+![Enhanced](https://github.com/user-attachments/assets/2df12f39-b85c-443d-a472-72a345e596ba)
+
+[Image Enhance](https://chatgpt.com/g/g-686513ac6570819188ec248979a4f7a0-image-enhance) is a custom GPT that specializes in automatic and guided photo enhancement using advanced neural imaging techniques. It improves digital images by adjusting lighting, correcting color balance, smoothing skin, removing blemishes, and eliminating unwanted objects—all with a focus on maintaining natural and aesthetically pleasing results. Designed for clarity and speed, it guides users through a step-by-step process to identify their enhancement goals, offering expert suggestions and applying high-quality transformations tailored to each image.
+
 #
 
 [Car Design](https://github.com/sourceduty/Car_Design)
